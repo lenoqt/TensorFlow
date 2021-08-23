@@ -1,0 +1,4 @@
+Pipfile*
+dnn_model/
+*.pkl
+.ipynb_checkpoints/
